@@ -1,12 +1,12 @@
+<h2>Olá, Eu sou o Flávio Marcilio!</h2>
 
-## Hey, I'm Flávio Marcilio 👋
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviomarcilio/)](https://www.linkedin.com/in/flaviomarcilio/)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](https://www.linkedin.com/in/flaviomarcilio/)
-
-Sou estudante de Sistemas de Informação na UFMG e amante do conhecimento. Gosto de sempre estar conhecendo novas tecnologias.
-
-### Minhas informações aqui no GitHub:
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=flaviomarcilio&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=flaviomarcilio&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />   
-</p>
+<div align="center">
+  <a href="https://github.com/flaviomarcilio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviomarcilio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomarcilio&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+<div>
+  <h3>Sou estudante de Sistemas da Informação e atuo como Analista de Desenvolvimento .NET Júnior</h3>
+</div>
