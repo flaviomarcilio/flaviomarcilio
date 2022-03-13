@@ -6,5 +6,7 @@
 Sou estudante de Sistemas de Informação na UFMG e amante do conhecimento. Gosto de sempre estar conhecendo novas tecnologias.
 
 ### Minhas informações aqui no GitHub:
-
-![Status](https://github-readme-stats.vercel.app/api?username=flaviomarcilio) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomarcilio&layout=compact)](https://github.com/flaviomarcilio)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=flaviomarcilio&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=flaviomarcilio&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />   
+</p>
